@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: etc etc
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: railcar_img_crop2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Porter Hall A10</p>
@@ -27,12 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Affiliations
-[Sustainable and Liveable Urban Systems (SALUS) lab](https://www.flanigansaluslab.com/)
 
-[Intelligent Infrastrucutre Research (INFER) lab](https://www.inferlab.org/)
-
-[Center for Engineering Resilience and Climate Adaptation](https://engineering.cmu.edu/cerca/index.html)
 
 # Bio 
 
@@ -46,9 +41,17 @@ I am a PhD student in the Civil and Environmental Engineering department at Carg
 
 To accomplish these research goals, I leverage tools and techniques from several fields. I use computer vision techniques and multimodal large language models (MLLMs) to extract information about what people are doing
 
-I'm currently focusing these questions towards the design of social infrastructure (link here) sites to create social capital(link here), but I'm interested in the broader applications of modeling humans in the built environment (ex: design against disease outbreaks, design against loneliness, design for innovation). Reach out if you think this is cool! (I do!) 
+I'm currently focusing these questions towards the design of social infrastructure sites to create social capital, but I'm interested in the broader applications of modeling humans in the built environment (ex: design against disease outbreaks, design against loneliness, design for innovation). Reach out if you think this is cool! (I do!) 
 
 Previously, I earned my B.S. in Structural Engineering from UC San Diego. 
 
 
-Note: If "social infrastructure" or "social capital" are new terms for you, check out my blog post for a short (add link here) or long (add link here) introduction.
+Note: If "social infrastructure" or "social capital" are new terms for you, check out my blog post for a short (WIP) or long (WIP) introduction.
+
+Affiliations:
+
+[Sustainable and Liveable Urban Systems (SALUS) lab](https://www.flanigansaluslab.com/)
+
+[Intelligent Infrastrucutre Research (INFER) lab](https://www.inferlab.org/)
+
+[Center for Engineering Resilience and Climate Adaptation (CERCA)](https://engineering.cmu.edu/cerca/index.html)
