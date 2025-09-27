@@ -5,6 +5,6 @@ permalink: /books/
 nav: false
 collection: books
 ---
-An unorganized set of books that I enjoy or find interesting, for work or otherwise. 
+An unorganized set of books that I enjoy or find interesting, for work or otherwise. Not up to date with my library.
 
 
