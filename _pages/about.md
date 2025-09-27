@@ -21,15 +21,8 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-
-
-# Bio 
 
 I am a PhD student in the Civil and Environmental Engineering department at Cargnegie Mellon University, advised by [Katherine Flanigan](https://www.flanigansaluslab.com/our-team) and [Mario Bergés](https://www.marioberges.com/). I work in the area of human-building interaction, with my primary research interest being social interactions in the built environment. Specifically:
 
@@ -45,8 +38,6 @@ I'm currently focusing these questions towards the design of social infrastructu
 
 Previously, I earned my B.S. in Structural Engineering from UC San Diego. 
 
-
-Note: If "social infrastructure" or "social capital" are new terms for you, check out my blog post for a short (WIP) or long (WIP) introduction.
 
 Affiliations:
 
