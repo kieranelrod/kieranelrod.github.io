@@ -36,7 +36,7 @@ latest_posts:
 
 # Bio 
 
-I am a PhD student in the Civil and Environmental Engineering department at Cargnegie Mellon University, advised by [Katherine Flanigan](https://www.flanigansaluslab.com/our-team) and [Mario Bergés](https://www.marioberges.com/). My primary research interest is social interactions in the built environment. Specifically:
+I am a PhD student in the Civil and Environmental Engineering department at Cargnegie Mellon University, advised by [Katherine Flanigan](https://www.flanigansaluslab.com/our-team) and [Mario Bergés](https://www.marioberges.com/). I work in the area of human-building interaction, with my primary research interest being social interactions in the built environment. Specifically:
 
 1) How can we responsibly collect data about human social behavior in the built environment?
 
