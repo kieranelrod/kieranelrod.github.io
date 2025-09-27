@@ -32,11 +32,9 @@ I am a PhD student in the Civil and Environmental Engineering department at Carg
 
 3) How can we quantitatively design buildings to support social interactions?
 
-To accomplish these research goals, I leverage tools and techniques from several fields. I use computer vision techniques and multimodal large language models (MLLMs) to extract information about what people are doing
-
 I'm currently focusing these questions towards the design of social infrastructure sites to create social capital, but I'm interested in the broader applications of modeling humans in the built environment (ex: design against disease outbreaks, design against loneliness, design for innovation). Reach out if you think this is cool! (I do!) 
 
-Previously, I earned my B.S. in Structural Engineering from UC San Diego. 
+Previously, I earned my B.S. in Structural Engineering from UC San Diego where I worked on structural health monitoring (SHM).
 
 
 Affiliations:
