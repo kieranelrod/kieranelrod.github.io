@@ -41,6 +41,4 @@ Affiliations:
 
 [Sustainable and Liveable Urban Systems (SALUS) lab](https://www.flanigansaluslab.com/)
 
-[Intelligent Infrastrucutre Research (INFER) lab](https://www.inferlab.org/)
-
-[Center for Engineering Resilience and Climate Adaptation (CERCA)](https://engineering.cmu.edu/cerca/index.html)
+[Intelligent Infrastructure Research (INFER) lab](https://www.inferlab.org/)
